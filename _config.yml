@@ -1,0 +1,79 @@
+title: Software Development Manager
+sitename: koyeliroy
+logo: /assets/logo/royforge-logo.svg
+description: > # this means to ignore newlines until "plugins:"
+  Koyeli Roy is a Software Development Manager, having deep rooted experience in 
+  development and delivery of digital technology for tier 1 telecom companies globally.
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+menu:
+  - title: royforge
+    url: https://royforge.github.io/
+
+cv:
+  name: "Koyeli Roy"
+  tagline: "Software Development Manager"
+  photo: "/assets/profilepic/koyeli-roy-profile-pic-white-bg.png"
+  contact:
+    email: "koyeliroy.in@gmail.com"
+    mobile: "+91 9423076306"
+    location: 
+      streetAddress: Magarpatta City
+      addressLocality: Pune
+      addressRegion: Maharashtra
+      addressCountry: IN
+      postalCode: 411013
+    github: "https://github.com/koyeliroy"
+    blog: "https://medium.com/@koyeliroy"
+    website: "https://royforge.github.io/"
+    linkedin: "https://www.linkedin.com/in/koyeliroy"
+  experience:
+  - lastpositionheld: Software Development Manager
+    company: "Amdocs Development Centre"
+    location: "Pune, IN"
+    starttoenddate: "02/2004 - 06/2007"
+    achievements:
+    - "Exposed to bay area startup culture."
+    - "Cultivated best of software product engineering practices."
+    positionsheld:
+    - title: "Module Lead"
+      starttoenddate: "02/2004 - 06/2007"
+    - title: "Senior Software Engineer"
+      starttoenddate: "02/2004 - 06/2007"
+  education:
+  - degree: "Bachelors of Engineering"
+    institute: "MS University"
+    location: "Vadodara, IN"
+    starttoenddate: "07/1998 - 05/2002"
+  - degree: "MS CSE"
+    institute: "BITS, Pillani"
+    location: "Pune, IN"
+    starttoenddate: "07/2003 - 01/2004"
+  certification:
+  - name: "CAKD"
+    id: "987654321"
+    certdate: "05 March 2020"
+  - name: "AWS"
+    id: "132457689"
+    certdate: "20 March 2020"
+  skillset:
+  - "Technical Leadership"
+  - "Team Management"
+  - "Project Management"
+  - "Agile Practices"
+  - "SAFE"
+  - "Software Architecture"
+  - "Java"
+  retrospection:
+  - title: Transformed Business
+    description: Contributed/led 20+ GA releases of softwares which changed the way we conduct our daily business.
+  - title: Transformed People/Teams
+    description: Built teams, organisations 
+  anticipation:
+  - title: Train Young Minds
+    description: Contributed/led 20+ GA releases of softwares which changed the way we conduct our daily business.
+  - title: Build Communities
+    description: Built teams, organisations
