@@ -36,6 +36,9 @@ cv:
     location: "Pune, IN"
     starttoenddate: "07/2005 - till date"
     achievements: 
+    - "Rose through the ranks in the organisation by experiencing nuances of each and every position in the hierarchy."
+    - "Delivered complex Customer Service Management and Billing solutions for tier 1 Mobile Operators in the USA."
+    - "Awarded Amdocs Delivery Award for completing complex large scale CSM/Billing platform migration project."
     positionsheld:
     - title: "Software Development Manager"
       starttoenddate: "08/2017 - till date"
@@ -65,17 +68,21 @@ cv:
   - "Technical Leadership"
   - "Team Management"
   - "Project Management"
+  - "Delivery Management"
   - "Agile Practices"
-  - "SAFE"
+  - "SAFe"
   - "Software Architecture"
+  - "Amdocs Ensemble"
   - "Java"
+  - "Pro*C"
+  - "PL SQL"
   retrospection:
-  - title: Transformed Business
-    description: Contributed/led 20+ GA releases of softwares which changed the way we conduct our daily business.
-  - title: Transformed People/Teams
-    description: Built teams, organisations 
+  - title: Software Delivery Excellence
+    description: Over a period of time, honed software delivery in the organisaion by establishing flexible team structures, empowering teams to take faster decisions and sharpening processes and tools to support modern software development practices. 
+  - title: Amdocs Ensemble Subject Matter Expertice
+    description: Achieved a very high level of expertise in Amdocs Ensemble CSM and Billing software platforms while delivering to tier one mobile operators in the USA.
   anticipation:
-  - title: Train Young Minds
-    description: Contributed/led 20+ GA releases of softwares which changed the way we conduct our daily business.
-  - title: Build Communities
-    description: Built teams, organisations
+  - title: Empowering Women in Tech
+    description: Contribute towards building local community and meetup group to empower women in tech by facilitating mentorship and networking.
+  - title: Nurturing Young Minds
+    description: Develop and deliver contents to introduce young minds to computing technologies and inculcate coding skills early in life.
